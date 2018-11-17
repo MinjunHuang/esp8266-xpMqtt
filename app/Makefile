@@ -15,8 +15,8 @@ TARGET = eagle
 #FLAVOR = release E:\Espressif\GitHubMine\StudyInNRF51822\esp8266-xpMqtt
 FLAVOR = debug
 
-export SDK_PATH = /cygdrive/E/Espressif/GitHubMine/StudyInNRF51822/esp8266-xpMqtt
-export BIN_PATH = /cygdrive/E/Espressif/GitHubMine/StudyInNRF51822/esp8266-xpMqtt/bin/
+#export SDK_PATH = /cygdrive/E/Espressif/GitHubMine/StudyInNRF51822/esp8266-xpMqtt
+#export BIN_PATH = /cygdrive/E/Espressif/GitHubMine/StudyInNRF51822/esp8266-xpMqtt/bin/
 
 
 
